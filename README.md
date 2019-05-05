@@ -8,7 +8,7 @@ In your pom.xml, add this repository as a repo:
         <repository>
             <id>project-common</id>
             <name>Project Common</name>
-            <url>https://raw.githubusercontent.com/mboysan/mvn-repo/master/</url>
+            <url>https://github.com/mboysan/mvn-repo/raw/master</url>
         </repository>
     </repositories>
    ...
