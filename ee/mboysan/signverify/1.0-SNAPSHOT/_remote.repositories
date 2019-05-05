@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 05 19:52:54 EEST 2019
+signverify-1.0-SNAPSHOT-jar-with-dependencies.jar>=
+signverify-1.0-SNAPSHOT.jar>=
+signverify-1.0-SNAPSHOT.pom>=

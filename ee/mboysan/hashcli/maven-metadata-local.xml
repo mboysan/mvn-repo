@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ee.mboysan</groupId>
+  <artifactId>hashcli</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190505143915</lastUpdated>
+  </versioning>
+</metadata>

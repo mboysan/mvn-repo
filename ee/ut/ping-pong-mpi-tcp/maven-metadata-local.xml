@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ee.ut</groupId>
+  <artifactId>ping-pong-mpi-tcp</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190408134446</lastUpdated>
+  </versioning>
+</metadata>

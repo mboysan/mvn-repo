@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 08 16:44:46 EEST 2019
+ping-pong-mpi-tcp-1.0-SNAPSHOT.pom>=
+ping-pong-mpi-tcp-1.0-SNAPSHOT.jar>=
+ping-pong-mpi-tcp-1.0-SNAPSHOT-jar-with-dependencies.jar>=
