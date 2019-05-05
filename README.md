@@ -3,8 +3,7 @@
 In your pom.xml, add this repository as a repo:
 
 ```xml
-	...
-
+    ...
     <repositories>
         <repository>
             <id>project-common</id>
@@ -12,19 +11,20 @@ In your pom.xml, add this repository as a repo:
             <url>https://raw.githubusercontent.com/mboysan/mvn-repo/master/</url>
         </repository>
     </repositories>
+   ...
 ```
 
 Add one of the dependencies available like the following:
 
 ```xml
 	...
-	<dependencies>
+    <dependencies>
         <dependency>
-            <groupId>org.open-mpi</groupId>
-            <artifactId>open-mpi</artifactId>
-            <version>3.0.0</version>
+            <groupId>ee.mboysan</groupId>
+            <artifactId>signverify</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
 		...
-	</dependencies>
+    </dependencies>
 	...
 ```
