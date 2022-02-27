@@ -12,8 +12,8 @@
     <module>consensus-raft</module>
     <module>consensus-bizur</module>
     <module>consensus-kvstore</module>
-    <module>consensus-distribution</module>
     <module>consensus-cli</module>
+    <module>consensus-distribution</module>
   </modules>
   <properties>
     <netty.version>4.1.65.Final</netty.version>
@@ -144,6 +144,12 @@
             </goals>
           </execution>
         </executions>
+        <configuration>
+          <includes>
+            <include>**/*IT.java</include>
+            <include>**/*IntegrationTest.java</include>
+          </includes>
+        </configuration>
       </plugin>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
