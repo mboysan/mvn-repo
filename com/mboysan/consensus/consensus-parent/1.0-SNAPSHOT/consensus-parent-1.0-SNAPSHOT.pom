@@ -16,7 +16,6 @@
     <module>consensus-distribution</module>
   </modules>
   <properties>
-    <netty.version>4.1.65.Final</netty.version>
     <maven.jar.plugin.version>3.2.0</maven.jar.plugin.version>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <mockito.version>4.3.1</mockito.version>
@@ -34,6 +33,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <commons-lang3.version>3.12.0</commons-lang3.version>
     <maven.war.plugin.version>3.3.2</maven.war.plugin.version>
+    <awaitility.version>4.2.0</awaitility.version>
     <maven.surefire.version>3.0.0-M4</maven.surefire.version>
     <maven.compiler.java.version>17</maven.compiler.java.version>
     <commons-pool2.version>2.10.0</commons-pool2.version>
@@ -66,11 +66,6 @@
         <version>${commons-pool2.version}</version>
       </dependency>
       <dependency>
-        <groupId>io.netty</groupId>
-        <artifactId>netty-all</artifactId>
-        <version>${netty.version}</version>
-      </dependency>
-      <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter</artifactId>
         <version>${junit.jupiter.version}</version>
@@ -80,6 +75,12 @@
         <groupId>org.mockito</groupId>
         <artifactId>mockito-core</artifactId>
         <version>${mockito.version}</version>
+        <scope>test</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.awaitility</groupId>
+        <artifactId>awaitility</artifactId>
+        <version>${awaitility.version}</version>
         <scope>test</scope>
       </dependency>
     </dependencies>
