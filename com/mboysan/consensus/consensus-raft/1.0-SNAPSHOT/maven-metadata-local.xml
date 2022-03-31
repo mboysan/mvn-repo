@@ -2,29 +2,29 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-raft</artifactId>
-  <version>1.0-SNAPSHOT</version>
   <versioning>
+    <lastUpdated>20220331193529</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20220321215822</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20220321215822</updated>
+        <updated>20220331193529</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20220321215822</updated>
+        <updated>20220331193529</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20220321215822</updated>
+        <updated>20220331193529</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
+  <version>1.0-SNAPSHOT</version>
 </metadata>
