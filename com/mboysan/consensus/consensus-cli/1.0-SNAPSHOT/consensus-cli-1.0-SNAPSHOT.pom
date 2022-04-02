@@ -18,6 +18,11 @@
     </dependency>
     <dependency>
       <groupId>com.mboysan.consensus</groupId>
+      <artifactId>consensus-network</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.mboysan.consensus</groupId>
       <artifactId>consensus-core</artifactId>
       <version>${project.version}</version>
       <type>test-jar</type>
