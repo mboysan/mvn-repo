@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.mboysan.consensus</groupId>
-  <artifactId>consensus-distribution</artifactId>
+  <artifactId>consensus-metrics</artifactId>
   <versioning>
     <lastUpdated>20220410214103</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
     <snapshotVersions>
-      <snapshotVersion>
-        <classifier>jar-with-dependencies</classifier>
-        <extension>jar</extension>
-        <value>1.0-SNAPSHOT</value>
-        <updated>20220410214103</updated>
-      </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
