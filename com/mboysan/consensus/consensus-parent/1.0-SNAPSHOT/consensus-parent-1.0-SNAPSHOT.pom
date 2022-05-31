@@ -17,35 +17,20 @@
     <module>consensus-metrics</module>
   </modules>
   <properties>
-    <maven.jar.plugin.version>3.2.2</maven.jar.plugin.version>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <mockito.version>4.4.0</mockito.version>
-    <sonar.organization>mboysan-github</sonar.organization>
-    <jacoco.maven.plugin.version>0.8.8</jacoco.maven.plugin.version>
-    <junit.jupiter.version>5.8.2</junit.jupiter.version>
-    <maven.assembly.plugin.version>3.3.0</maven.assembly.plugin.version>
-    <revision>1.0-SNAPSHOT</revision>
-    <flatten.maven.plugin.version>1.2.7</flatten.maven.plugin.version>
     <sonar.projectKey>mboysan_consensus</sonar.projectKey>
-    <slf4j.version>1.7.36</slf4j.version>
     <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
-    <maven.compiler.plugin.version>3.10.1</maven.compiler.plugin.version>
-    <maven.failsafe.version>3.0.0-M6</maven.failsafe.version>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <commons-lang3.version>3.12.0</commons-lang3.version>
-    <maven.war.plugin.version>3.3.2</maven.war.plugin.version>
-    <awaitility.version>4.2.0</awaitility.version>
-    <maven.surefire.version>3.0.0-M6</maven.surefire.version>
+    <sonar.organization>mboysan-github</sonar.organization>
     <maven.compiler.java.version>17</maven.compiler.java.version>
-    <micrometer.version>1.8.4</micrometer.version>
-    <commons-pool2.version>2.11.1</commons-pool2.version>
+    <revision>1.0-SNAPSHOT</revision>
   </properties>
   <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>org.slf4j</groupId>
         <artifactId>slf4j-api</artifactId>
-        <version>${slf4j.version}</version>
+        <version>1.7.36</version>
       </dependency>
       <dependency>
         <groupId>org.aeonbits.owner</groupId>
@@ -55,45 +40,45 @@
       <dependency>
         <groupId>org.apache.commons</groupId>
         <artifactId>commons-lang3</artifactId>
-        <version>${commons-lang3.version}</version>
+        <version>3.12.0</version>
       </dependency>
       <dependency>
         <groupId>org.apache.commons</groupId>
         <artifactId>commons-pool2</artifactId>
-        <version>${commons-pool2.version}</version>
+        <version>2.11.1</version>
       </dependency>
       <dependency>
         <groupId>io.micrometer</groupId>
         <artifactId>micrometer-registry-jmx</artifactId>
-        <version>${micrometer.version}</version>
+        <version>1.9.0</version>
       </dependency>
       <dependency>
         <groupId>io.micrometer</groupId>
         <artifactId>micrometer-registry-graphite</artifactId>
-        <version>${micrometer.version}</version>
+        <version>1.9.0</version>
       </dependency>
       <dependency>
         <groupId>org.slf4j</groupId>
         <artifactId>slf4j-simple</artifactId>
-        <version>${slf4j.version}</version>
+        <version>1.7.36</version>
         <scope>test</scope>
       </dependency>
       <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter</artifactId>
-        <version>${junit.jupiter.version}</version>
+        <version>5.8.2</version>
         <scope>test</scope>
       </dependency>
       <dependency>
         <groupId>org.mockito</groupId>
         <artifactId>mockito-core</artifactId>
-        <version>${mockito.version}</version>
+        <version>4.6.0</version>
         <scope>test</scope>
       </dependency>
       <dependency>
         <groupId>org.awaitility</groupId>
         <artifactId>awaitility</artifactId>
-        <version>${awaitility.version}</version>
+        <version>4.2.0</version>
         <scope>test</scope>
       </dependency>
     </dependencies>
@@ -103,19 +88,19 @@
       <plugins>
         <plugin>
           <artifactId>maven-assembly-plugin</artifactId>
-          <version>${maven.assembly.plugin.version}</version>
+          <version>3.3.0</version>
         </plugin>
         <plugin>
           <groupId>org.jacoco</groupId>
           <artifactId>jacoco-maven-plugin</artifactId>
-          <version>${jacoco.maven.plugin.version}</version>
+          <version>0.8.8</version>
         </plugin>
       </plugins>
     </pluginManagement>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>${maven.compiler.plugin.version}</version>
+        <version>3.10.1</version>
         <configuration>
           <release>${maven.compiler.java.version}</release>
           <source>${maven.compiler.java.version}</source>
@@ -124,7 +109,7 @@
       </plugin>
       <plugin>
         <artifactId>maven-surefire-plugin</artifactId>
-        <version>${maven.surefire.version}</version>
+        <version>3.0.0-M6</version>
         <executions>
           <execution>
             <id>default-test</id>
@@ -143,7 +128,7 @@
       </plugin>
       <plugin>
         <artifactId>maven-failsafe-plugin</artifactId>
-        <version>${maven.failsafe.version}</version>
+        <version>3.0.0-M6</version>
         <executions>
           <execution>
             <id>integration-tests</id>
@@ -168,7 +153,7 @@
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>flatten-maven-plugin</artifactId>
-        <version>${flatten.maven.plugin.version}</version>
+        <version>1.2.7</version>
         <executions>
           <execution>
             <id>flatten</id>
@@ -192,7 +177,7 @@
       </plugin>
       <plugin>
         <artifactId>maven-jar-plugin</artifactId>
-        <version>${maven.jar.plugin.version}</version>
+        <version>3.2.2</version>
         <executions>
           <execution>
             <id>Jar Tests Package</id>
