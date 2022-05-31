@@ -3,7 +3,7 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-cli</artifactId>
   <versioning>
-    <lastUpdated>20220531104403</lastUpdated>
+    <lastUpdated>20220531120821</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -12,17 +12,17 @@
         <classifier>tests</classifier>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20220531104403</updated>
+        <updated>20220531120821</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20220531104403</updated>
+        <updated>20220531120821</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20220531104403</updated>
+        <updated>20220531120821</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
