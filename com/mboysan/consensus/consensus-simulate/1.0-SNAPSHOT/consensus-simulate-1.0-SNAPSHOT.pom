@@ -8,27 +8,12 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <groupId>com.mboysan.consensus</groupId>
-  <artifactId>consensus-kvstore</artifactId>
+  <artifactId>consensus-simulate</artifactId>
   <version>1.0-SNAPSHOT</version>
   <dependencies>
     <dependency>
       <groupId>com.mboysan.consensus</groupId>
       <artifactId>consensus-core</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.mboysan.consensus</groupId>
-      <artifactId>consensus-bizur</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.mboysan.consensus</groupId>
-      <artifactId>consensus-raft</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.mboysan.consensus</groupId>
-      <artifactId>consensus-simulate</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>

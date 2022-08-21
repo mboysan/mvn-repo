@@ -15,6 +15,7 @@
     <module>consensus-cli</module>
     <module>consensus-distribution</module>
     <module>consensus-metrics</module>
+    <module>consensus-simulate</module>
   </modules>
   <properties>
     <sonar.projectKey>mboysan_consensus</sonar.projectKey>
