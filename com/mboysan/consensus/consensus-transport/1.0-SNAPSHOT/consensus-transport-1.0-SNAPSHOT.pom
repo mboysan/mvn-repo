@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <groupId>com.mboysan.consensus</groupId>
-  <artifactId>consensus-network</artifactId>
+  <artifactId>consensus-transport</artifactId>
   <version>1.0-SNAPSHOT</version>
   <dependencies>
     <dependency>
