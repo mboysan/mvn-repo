@@ -18,7 +18,7 @@
     </dependency>
     <dependency>
       <groupId>com.mboysan.consensus</groupId>
-      <artifactId>consensus-transport</artifactId>
+      <artifactId>consensus-network</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>

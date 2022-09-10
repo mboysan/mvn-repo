@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.mboysan.consensus</groupId>
-  <artifactId>consensus-transport</artifactId>
+  <artifactId>consensus-network</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220910124348</lastUpdated>
+    <lastUpdated>20220910134958</lastUpdated>
   </versioning>
 </metadata>
