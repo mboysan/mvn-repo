@@ -4,8 +4,8 @@
   <artifactId>consensus-kvstore</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230511162431</lastUpdated>
+    <lastUpdated>20230511174433</lastUpdated>
   </versioning>
 </metadata>
