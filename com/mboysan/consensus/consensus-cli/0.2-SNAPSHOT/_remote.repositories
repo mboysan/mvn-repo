@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 14 06:50:36 UTC 2023
+consensus-cli-0.2-SNAPSHOT.pom>=
+consensus-cli-0.2-SNAPSHOT-tests.jar>=
+consensus-cli-0.2-SNAPSHOT.jar>=
