@@ -3,7 +3,7 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-simulate</artifactId>
   <versioning>
-    <lastUpdated>20230514065019</lastUpdated>
+    <lastUpdated>20230514135553</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -12,17 +12,17 @@
         <classifier>tests</classifier>
         <extension>jar</extension>
         <value>0.2-SNAPSHOT</value>
-        <updated>20230514065019</updated>
+        <updated>20230514135553</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.2-SNAPSHOT</value>
-        <updated>20230514065019</updated>
+        <updated>20230514135553</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.2-SNAPSHOT</value>
-        <updated>20230514065019</updated>
+        <updated>20230514135553</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
