@@ -3,10 +3,9 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-distribution</artifactId>
   <versioning>
-    <release>1.0</release>
     <versions>
-      <version>1.0</version>
+      <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230518205209</lastUpdated>
+    <lastUpdated>20230518210616</lastUpdated>
   </versioning>
 </metadata>
