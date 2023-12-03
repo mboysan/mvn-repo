@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Dec 03 10:20:20 UTC 2023
+#Sun Dec 03 10:28:22 UTC 2023
 consensus-raft-1.1-SNAPSHOT-tests.jar>=
 consensus-raft-1.1-SNAPSHOT.jar>=
 consensus-raft-1.1-SNAPSHOT.pom>=
