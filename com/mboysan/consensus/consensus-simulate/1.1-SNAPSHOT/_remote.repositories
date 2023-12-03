@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 03 10:20:20 UTC 2023
+consensus-simulate-1.1-SNAPSHOT.jar>=
+consensus-simulate-1.1-SNAPSHOT.pom>=
+consensus-simulate-1.1-SNAPSHOT-tests.jar>=
