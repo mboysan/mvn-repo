@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 24 12:15:21 UTC 2024
+consensus-core-1.2-SNAPSHOT.pom>=
+consensus-core-1.2-SNAPSHOT.jar>=
+consensus-core-1.2-SNAPSHOT-tests.jar>=
