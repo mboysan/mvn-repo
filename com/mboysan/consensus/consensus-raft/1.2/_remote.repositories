@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 24 12:23:35 UTC 2024
+consensus-raft-1.2.pom>=
+consensus-raft-1.2-tests.jar>=
+consensus-raft-1.2.jar>=
