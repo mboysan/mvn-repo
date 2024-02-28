@@ -3,7 +3,7 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-core</artifactId>
   <versioning>
-    <lastUpdated>20240228152441</lastUpdated>
+    <lastUpdated>20240228153124</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -12,17 +12,17 @@
         <classifier>tests</classifier>
         <extension>jar</extension>
         <value>1.3-SNAPSHOT</value>
-        <updated>20240228152441</updated>
+        <updated>20240228153124</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.3-SNAPSHOT</value>
-        <updated>20240228152441</updated>
+        <updated>20240228153124</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.3-SNAPSHOT</value>
-        <updated>20240228152441</updated>
+        <updated>20240228153124</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
