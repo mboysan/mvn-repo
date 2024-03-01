@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 01 13:19:02 UTC 2024
+consensus-metrics-1.4-SNAPSHOT.pom>=
+consensus-metrics-1.4-SNAPSHOT-tests.jar>=
+consensus-metrics-1.4-SNAPSHOT.jar>=
