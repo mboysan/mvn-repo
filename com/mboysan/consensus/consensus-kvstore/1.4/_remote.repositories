@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 01 13:26:23 UTC 2024
+consensus-kvstore-1.4-tests.jar>=
+consensus-kvstore-1.4.pom>=
+consensus-kvstore-1.4.jar>=
