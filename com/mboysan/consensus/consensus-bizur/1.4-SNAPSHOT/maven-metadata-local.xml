@@ -3,7 +3,7 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-bizur</artifactId>
   <versioning>
-    <lastUpdated>20240301131850</lastUpdated>
+    <lastUpdated>20240302085107</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -12,17 +12,17 @@
         <classifier>tests</classifier>
         <extension>jar</extension>
         <value>1.4-SNAPSHOT</value>
-        <updated>20240301131850</updated>
+        <updated>20240302085107</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.4-SNAPSHOT</value>
-        <updated>20240301131850</updated>
+        <updated>20240302085107</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.4-SNAPSHOT</value>
-        <updated>20240301131850</updated>
+        <updated>20240302085107</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
