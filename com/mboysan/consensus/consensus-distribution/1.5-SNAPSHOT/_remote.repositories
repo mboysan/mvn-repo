@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 03 14:57:01 UTC 2024
+consensus-distribution-1.5-SNAPSHOT-jar-with-dependencies.jar>=
+consensus-distribution-1.5-SNAPSHOT.pom>=
+consensus-distribution-1.5-SNAPSHOT.jar>=
+consensus-distribution-1.5-SNAPSHOT-tests.jar>=
