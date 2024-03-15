@@ -3,10 +3,9 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-raft</artifactId>
   <versioning>
-    <release>1.5</release>
     <versions>
-      <version>1.5</version>
+      <version>1.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240315091039</lastUpdated>
+    <lastUpdated>20240315144630</lastUpdated>
   </versioning>
 </metadata>
