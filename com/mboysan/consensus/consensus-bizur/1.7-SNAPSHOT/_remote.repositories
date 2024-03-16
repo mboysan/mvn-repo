@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 16 11:48:13 UTC 2024
+consensus-bizur-1.7-SNAPSHOT.pom>=
+consensus-bizur-1.7-SNAPSHOT-tests.jar>=
+consensus-bizur-1.7-SNAPSHOT.jar>=
