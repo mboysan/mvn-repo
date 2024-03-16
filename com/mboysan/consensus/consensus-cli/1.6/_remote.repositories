@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 16 10:02:18 UTC 2024
+consensus-cli-1.6.jar>=
+consensus-cli-1.6.pom>=
+consensus-cli-1.6-tests.jar>=
