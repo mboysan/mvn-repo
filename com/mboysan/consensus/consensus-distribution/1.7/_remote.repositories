@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 16 11:57:31 UTC 2024
+consensus-distribution-1.7.pom>=
+consensus-distribution-1.7.jar>=
+consensus-distribution-1.7-jar-with-dependencies.jar>=
+consensus-distribution-1.7-tests.jar>=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 16 11:57:17 UTC 2024
+consensus-network-1.7.jar>=
+consensus-network-1.7.pom>=
+consensus-network-1.7-tests.jar>=
