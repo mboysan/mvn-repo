@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.mboysan.consensus</groupId>
+  <artifactId>consensus-raft</artifactId>
+  <versioning>
+    <lastUpdated>20240413094929</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>1.8-SNAPSHOT</value>
+        <updated>20240413094929</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.8-SNAPSHOT</value>
+        <updated>20240413094929</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8-SNAPSHOT</value>
+        <updated>20240413094929</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.8-SNAPSHOT</version>
+</metadata>

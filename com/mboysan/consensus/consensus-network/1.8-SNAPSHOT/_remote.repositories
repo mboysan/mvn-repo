@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 13 09:49:36 UTC 2024
+consensus-network-1.8-SNAPSHOT-tests.jar>=
+consensus-network-1.8-SNAPSHOT.jar>=
+consensus-network-1.8-SNAPSHOT.pom>=

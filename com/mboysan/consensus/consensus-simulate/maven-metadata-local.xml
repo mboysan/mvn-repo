@@ -3,10 +3,9 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>consensus-simulate</artifactId>
   <versioning>
-    <release>1.7</release>
     <versions>
-      <version>1.7</version>
+      <version>1.8-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240316115705</lastUpdated>
+    <lastUpdated>20240413094929</lastUpdated>
   </versioning>
 </metadata>
