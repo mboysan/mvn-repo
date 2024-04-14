@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Apr 14 09:40:02 UTC 2024
+consensus-network-1.10-tests.jar>=
+consensus-network-1.10.pom>=
+consensus-network-1.10.jar>=
