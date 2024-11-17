@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 17 11:55:48 UTC 2024
+consensus-kvstore-1.12-SNAPSHOT.jar>=
+consensus-kvstore-1.12-SNAPSHOT.pom>=
+consensus-kvstore-1.12-SNAPSHOT-tests.jar>=
