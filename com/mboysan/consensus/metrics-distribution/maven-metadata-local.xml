@@ -3,9 +3,10 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>metrics-distribution</artifactId>
   <versioning>
+    <release>1.0</release>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20241125184424</lastUpdated>
+    <lastUpdated>20241125185334</lastUpdated>
   </versioning>
 </metadata>

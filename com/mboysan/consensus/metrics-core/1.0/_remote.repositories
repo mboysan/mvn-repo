@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 25 18:53:38 UTC 2024
-consensus-metrics-1.0.pom>=
-consensus-metrics-1.0-tests.jar>=
+#Mon Nov 25 18:53:39 UTC 2024
+metrics-core-1.0.pom>=
+metrics-core-1.0-tests.jar>=
+metrics-core-1.0.jar>=
