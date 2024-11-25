@@ -10,6 +10,13 @@
   <groupId>com.mboysan.consensus</groupId>
   <artifactId>metrics-distribution</artifactId>
   <version>1.0</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.mboysan.consensus</groupId>
+      <artifactId>metrics-core</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+  </dependencies>
   <build>
     <plugins>
       <plugin>
