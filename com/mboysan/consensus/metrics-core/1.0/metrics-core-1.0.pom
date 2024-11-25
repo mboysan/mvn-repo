@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.mboysan.consensus</groupId>
-    <artifactId>consensus-metrics</artifactId>
+    <artifactId>metrics-parent</artifactId>
     <version>1.0</version>
   </parent>
   <groupId>com.mboysan.consensus</groupId>

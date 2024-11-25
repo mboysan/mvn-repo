@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.mboysan.consensus</groupId>
-  <artifactId>metrics-core</artifactId>
+  <artifactId>metrics-parent</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
