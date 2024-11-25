@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 25 19:22:39 UTC 2024
+#Mon Nov 25 19:24:40 UTC 2024
 metrics-distribution-1.0-jar-with-dependencies.jar>=
 metrics-distribution-1.0-tests.jar>=
 metrics-distribution-1.0.jar>=
